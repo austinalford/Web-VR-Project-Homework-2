@@ -1,7 +1,7 @@
 # Web-VR-Project-Homework-2
 Homework 2
 
-**Present project shows the use of 3D animations in A-Frame**
+**Present project shows the use of 3D Model**
 
 
 ### **Description**
@@ -14,6 +14,8 @@ This project was created as a part of the course "Introduction to AR/VR Applicat
 Screenshot of the project.
 ![Screenshot_3D Model](https://user-images.githubusercontent.com/56091213/155212579-552c2fc8-810f-4d1a-9b86-a827d4ff2187.jpg)
 
+### **Link to HTML webpage**
+https://austinalford.github.io/Web-VR-Project-Homework-2/
 
 ### **Author**
 The author of the project: Austin Alford
