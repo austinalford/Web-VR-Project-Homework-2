@@ -12,7 +12,8 @@ This project was created as a part of the course "Introduction to AR/VR Applicat
 
 ### **Project Screenshots**
 Screenshot of the project.
-![Screenshot_3D Model](https://user-images.githubusercontent.com/56091213/155212579-552c2fc8-810f-4d1a-9b86-a827d4ff2187.jpg)
+![Screenshot_3D Model](https://user-images.githubusercontent.com/56091213/155218321-2ff47d55-4939-4477-8cab-3dfda575d7e3.jpg)
+
 
 ### **Link to HTML webpage**
 https://austinalford.github.io/Web-VR-Project-Homework-2/
